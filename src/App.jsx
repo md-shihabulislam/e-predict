@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { ThemeProvider, createTheme, CssBaseline, Box, CircularProgress } from "@mui/material";
 
 // Components
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 
 // Pages
 import Home from "./pages/Home";
